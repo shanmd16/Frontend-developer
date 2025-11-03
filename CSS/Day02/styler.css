@@ -1,0 +1,49 @@
+span{
+      color: blue;
+}
+
+/* universal selector */
+*{ 
+    margin: 10;
+    padding: 0px;
+
+}
+
+h1{
+    background-color: aqua;
+    height: 300px;
+    width:  300px;
+    border: 10px solid orange;
+    padding: 20px;
+    box-sizing: content-box;
+    /* padding: 40px;
+    margin: 20px;  */
+    /* display:inline; */
+
+}
+h2{
+    background-color: chartreuse;
+    /* display: inline; */
+    height: 200px;
+    width:  300px;
+    border: 10px solid orange;
+    padding: 20px;
+}
+
+span{
+    background-color: yellow;
+  
+    /* no change height and width */
+    height: 200px;
+    width:  300px;
+    /* only apply horizontal way */
+    margin-bottom: 150px;
+    /* padding-top:50px;
+    padding-bottom:50px; */
+    padding-left: 30px;
+    padding-right:30px;
+    margin-left:20px;
+    /* display:block; */
+
+
+}

@@ -1,0 +1,96 @@
+/* Tag Element selector */
+
+/* 
+h1{
+   background-color:chartreuse;
+}
+
+ul{
+    background-color: chocolate;
+}
+
+h2{
+    background-color:cornsilk;
+}
+*/
+
+/* id base selection # base selection */
+
+/* #first{
+    background-color: chocolate;
+}
+
+#second{
+    background-color: burlywood;
+} */
+
+/* class based selection */
+
+/* .third{
+    background-color: green;
+
+}
+.fourth{
+    background-color:azure ;
+} */
+
+/* group based selection  */
+
+/* h1,.fourth,#first{
+    background-color: aqua;
+} */
+
+
+
+/* h1{
+    background-color: rgba(19, 38, 161, 0.5);
+}
+
+h2{
+    background-color: hsla(110,50%, 50%,0.483);
+} */
+
+
+/* h1
+    background-color: #639747;
+} */
+
+/* h1{
+    font-size: 80px;
+}
+ul{
+    font-size: 20px;
+} */
+
+/* li{
+    font-size: 2em;
+
+} */
+
+/* html{
+    font-size: 40px;
+} */
+
+/* h2{
+    font-size: 3rem;
+} */
+
+h2{
+     font-family: "Roboto", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+} 
+
+
+
+
+
+
+
+
+
+
+
