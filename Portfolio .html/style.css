@@ -74,11 +74,18 @@ body{
 /* contact information */
 .contact{
     margin-top: 30px;
-    border-top: 2px solid #3a3a3a ;
+    border-top: 2px solid #3a3a3a;
     padding-top: 20px;
-}
+  
+}  
 
-.lable{
+/* .contact > div{
+    margin-bottom: 10px;
+    padding: 10px 12px;
+    border-radius: 8px;
+} */
+
+.label{
     font-weight: 500;
     font-size: 0.8rem;
     color: #a0a0a0;
@@ -89,8 +96,9 @@ body{
     text-decoration: none;
 }
 
-.email,.phone{
+.email,.phone,.location{
     margin-bottom: 15px;
+    margin-left: 30px;
 }
 
 /* social media */
